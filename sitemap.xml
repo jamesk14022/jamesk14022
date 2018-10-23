@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/404/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/adobe-photoshop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/angular/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/apache-http-server/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/babeljs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/css3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/codeigniter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/font-awesome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/git/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/gulp/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/html5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/javascript-es5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/javascript-es7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/less/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/mongodb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/mongoose/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/mysql/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/nodejs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/opengl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/php/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/postgresql/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/prerender/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/languages/python/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/reactjs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/redux/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/sass/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/sublime-text/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/threejs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tools/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/infrastructure/webpack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/wordpress/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/frameworks/jquery/</loc>
+  </url>
+  
+</urlset>

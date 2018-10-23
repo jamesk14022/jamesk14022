@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure on James Kingsbury</title>
+    <link>http://localhost:1313/infrastructure/</link>
+    <description>Recent content in Infrastructure on James Kingsbury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://localhost:1313/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe Photoshop</title>
+      <link>http://localhost:1313/infrastructure/adobe-photoshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/adobe-photoshop/</guid>
+      <description> What is it? Adobe Photoshop is a raster graphics editing tool and part of the Adobe Creative Suite.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>Apache HTTP server</title>
+      <link>http://localhost:1313/infrastructure/apache-http-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/apache-http-server/</guid>
+      <description>What is it? Apache is a popular Open-source web server.
+Projects  Deprecation I would favour using Nginx over the Apache HTTP server. Nginx is less verbose, more modern and easier to work with.</description>
+    </item>
+    
+    <item>
+      <title>BabelJS</title>
+      <link>http://localhost:1313/infrastructure/babeljs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/babeljs/</guid>
+      <description>What is it? BabelJS is a tool that transpiles ES2015 to ES5 for cross-browser compatibility. With this, you can use bleeding-edge language features (with the correct plugins) and still support all modern browsers.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:1313/infrastructure/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/bootstrap/</guid>
+      <description>What is it? Font Awesome is a CSS framework for delivering font icons.
+Projects  Deprecation I would favour using SVG files for icons to cut down on the loading bundle size.</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/infrastructure/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/docker/</guid>
+      <description> What is it? Docker is a tool that manages the deployment of applications inside containers.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>Font Awesome</title>
+      <link>http://localhost:1313/infrastructure/font-awesome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/font-awesome/</guid>
+      <description>What is it? Font Awesome is a CSS framework for delivering font icons.
+Projects  Deprecation I would favour using SVG files for icons to cut down on the loading bundle size.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/infrastructure/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/git/</guid>
+      <description> What is it? Git is a source control manager and code collaboration tool.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>Gulp</title>
+      <link>http://localhost:1313/infrastructure/gulp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/gulp/</guid>
+      <description>What is it? Gulp is an automated Javascript task runner used for common tasks such as concatenating and minifying source code as part of the deployment process.
+Projects  Deprecation WebPack is a better tool to use.</description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>http://localhost:1313/infrastructure/mongodb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/mongodb/</guid>
+      <description>What is it? MongoDB is an Open-source document oriented database system.
+Projects  Deprecation I prefer working with relational database systems for larger projects. While document oriented data stores reduce complexity in some areas, they introduce more complexity in others.</description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>http://localhost:1313/infrastructure/mysql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/mysql/</guid>
+      <description> What is it? MySQL is a popular Open-source relational database management system.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>http://localhost:1313/infrastructure/nodejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/nodejs/</guid>
+      <description> What is it? NodeJS is a server-side Javascript run-time environment.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>http://localhost:1313/infrastructure/postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/postgresql/</guid>
+      <description> What is it? PostgreSQL is a popular Open-source object-relational database management system.
+Projects  </description>
+    </item>
+    
+    <item>
+      <title>Prerender</title>
+      <link>http://localhost:1313/infrastructure/prerender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/prerender/</guid>
+      <description>What is it? Prerender generates static HTML for client-side single page applications to make them accessible to web crawlers.
+Projects  Deprecation Most modern JavaScript frameworks and libraries use isomorphic rendering, where content is rendered on the server as well as the client. This negates the need for something like Prerender.</description>
+    </item>
+    
+    <item>
+      <title>Sublime Text</title>
+      <link>http://localhost:1313/infrastructure/sublime-text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/sublime-text/</guid>
+      <description>What is it? Sublime text is a lightweight modular text editor.
+Projects  Deprecation While useful as a scratchpad for ideas, WebStorm is far more powerful and has excellent integration for JavaScript based applications.</description>
+    </item>
+    
+    <item>
+      <title>WebPack</title>
+      <link>http://localhost:1313/infrastructure/webpack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/infrastructure/webpack/</guid>
+      <description>What is it? WebPack is a bundling tool to manage static assets, styles and scripts.
+It is used to bundle these depending on the environment you are working in, and supports transpilation of JavaScript and CSS assets.
+With BabelJS you to use modern Javascript features and transpiles them to ES5 to run in environments where those features might not yet be supported.</description>
+    </item>
+    
+  </channel>
+</rss>

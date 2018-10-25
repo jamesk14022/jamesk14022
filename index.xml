@@ -294,7 +294,7 @@ Projects  Deprecation Most modern JavaScript frameworks and libraries use isomor
       
       <guid>http://localhost:1313/projects/</guid>
       <description>AreaScout github.com/jamesk14022/AreaScout
-areascoutniherokuapp.com
+http://areascoutni.herokuapp.com/
 Utilised open data from Northern Irish government agencies to design and build a web application to help individuals make better decisions about where to live. Providing data on amenities, disamenities and visualizing data on other useful socio-economic indicators.  Server-side rendering of a React JS web app. Written in performant and readable JS ES6. Extensive use of Express for the REST backend, which interfaced with MongoDB and our logging solution PaperTrail.</description>
     </item>
     

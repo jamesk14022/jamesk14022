@@ -242,12 +242,14 @@ div.wrapper {
     display: none;
     background-color: #bdc3bc; }
 
-header,
-div:not(.wrapper):not(.video-teaser):not(.teaser),
+div:not(.wrapper):not(.video-teaser):not(.gallery):not(.teaser),
 main,
 footer {
   width: 100%;
   max-width: 80rem; }
+
+header {
+  width: 100%; }
 
 ul {
   list-style: none; }
@@ -674,8 +676,12 @@ section.project {
       width: 12.5rem;
       height: auto; }
   section.project aside {
-    width: 90%;
+    width: 50%;
     max-width: 70rem; }
+  @media screen and (max-width: 960px) {
+    section.project aside {
+      width: 100%;
+      margin: 5%; } }
   @media screen and (min-width: 0) and (max-width: 63.95rem) {
     section.project aside {
       padding: 0 1rem; } }
@@ -730,20 +736,26 @@ main.page {
  *	Projects
  */
 main.projects {
-  max-width: 80rem;
-  padding: 0; }
+  overflow: hidden;
+  padding: 0;
+  max-width: 90%; }
   main.projects h1,
   main.projects h2 {
     color: #1f3605; }
   main.projects h2 {
     margin: 0; }
+  main.projects div.gallery {
+    width: 600px;
+    margin: auto; }
+  main.projects section.project.image {
+    margin: 5% 0%; }
   main.projects img.thumb {
     display: inline;
     max-width: 100px;
     width: 100%;
     margin-right: 20px; }
   main.projects img.full-size-image {
-    width: 500px;
+    width: 100%;
     height: auto;
     display: block; }
   main.projects a.project-link {

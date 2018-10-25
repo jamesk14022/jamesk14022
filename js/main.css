@@ -242,7 +242,7 @@ div.wrapper {
     display: none;
     background-color: #bdc3bc; }
 
-div:not(.wrapper):not(.video-teaser):not(.gallery):not(.teaser),
+div:not(.wrapper):not(.photo-container):not(.right):not(.left):not(.video-teaser):not(.gallery):not(.teaser),
 main,
 footer {
   width: 100%;
@@ -713,7 +713,7 @@ section.project {
  */
 main.page {
   padding: 2.5rem 1rem;
-  max-width: 50rem; }
+  max-width: 85rem; }
   @media screen and (min-width: 64rem) {
     main.page {
       padding: 4rem 0; } }
@@ -737,18 +737,33 @@ main.page {
  */
 main.projects {
   overflow: hidden;
-  padding: 0;
-  max-width: 90%; }
+  padding: 0; }
   main.projects h1,
   main.projects h2 {
     color: #1f3605; }
   main.projects h2 {
     margin: 0; }
+  main.projects div.photo-container {
+    margin: 0px auto;
+    width: 100%; }
+  main.projects aside {
+    width: 100%;
+    margin: 0px auto; }
+  main.projects div.left {
+    float: left;
+    width: 50%;
+    padding-right: 2%; }
+  main.projects div.right {
+    float: right;
+    width: 50%; }
+  @media (max-width: 950px) {
+    main.projects div.left {
+      width: 100%;
+      margin: 4%; }
+    main.projects div.right {
+      width: 100%; } }
   main.projects p.project-description {
     margin-top: 2%; }
-  main.projects div.gallery {
-    width: 600px;
-    margin: auto; }
   main.projects section.project.image {
     margin: 5% 0%; }
   main.projects img.thumb {

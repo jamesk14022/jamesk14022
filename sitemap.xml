@@ -35,6 +35,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
@@ -185,10 +189,6 @@
   
   <url>
     <loc>http://localhost:1313/frameworks/wordpress/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/cv/</loc>
   </url>
   
   <url>

@@ -90,6 +90,15 @@ When used correctly, it can be terse and neat and introduces new element tags fo
     </item>
     
     <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Please contact me if you would like a copy of my CV.</description>
+    </item>
+    
+    <item>
       <title>CodeIgniter</title>
       <link>http://localhost:1313/frameworks/codeigniter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,7 +113,7 @@ When used correctly, it can be terse and neat and introduces new element tags fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description>Want to Work Together? I am a full-stack web developer with a deep passion for technology inside and outside my professional life. I&amp;rsquo;m interested in working on software projects at any stage in their lifecycle. With a keen passion in emerging technologies and any project that challenges how people traditionally do things.
+      <description>Want to Work Together? I am a full-stack web developer with a deep passion for technology inside and outside my professional life. I&amp;rsquo;m interested in working on software projects at any stage in their lifecycle. With an keen interest in emerging technologies and any project that challenges how people traditionally do things.
 Please feel free to checkout my qualifications, skillset and some of the projects I have worked on.</description>
     </item>
     
@@ -382,15 +391,6 @@ With BabelJS you to use modern Javascript features and transpiles them to ES5 to
       
       <guid>http://localhost:1313/frameworks/wordpress/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Work experience</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/cv/</guid>
-      <description>  December 2014 – Present   </description>
     </item>
     
     <item>

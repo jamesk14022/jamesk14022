@@ -29,12 +29,12 @@ body {
  *	Header
  */
 header h1 {
-  font-size: 1.25rem;
+  font-size: 2rem;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   font-weight: 100; }
   header h1 strong {
-    font-size: 1.25rem;
+    font-size: 2rem;
     font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
     font-weight: 400; }
 
@@ -68,7 +68,7 @@ div.teaser h3 {
  *	Navigation
  */
 nav a {
-  font-size: 1.25rem;
+  font-size: 2rem;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   font-weight: 100; }
@@ -142,7 +142,7 @@ pre {
 .cv-job aside h1,
 .cv-job aside h2 {
   font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif;
-  font-size: 1.25rem;
+  font-size: 2rem;
   font-weight: 400;
   letter-spacing: 0.125rem; }
   @media screen and (min-width: 64rem) {
@@ -744,6 +744,8 @@ main.projects {
     color: #1f3605; }
   main.projects h2 {
     margin: 0; }
+  main.projects p.project-description {
+    margin-top: 2%; }
   main.projects div.gallery {
     width: 600px;
     margin: auto; }

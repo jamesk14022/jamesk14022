@@ -3,196 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/404/</loc>
+    <loc>http://jameskingsbury.com/404/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/adobe-photoshop/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/adobe-photoshop/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/angular/</loc>
+    <loc>http://jameskingsbury.com/frameworks/angular/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/apache-http-server/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/apache-http-server/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/babeljs/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/babeljs/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/bash/</loc>
+    <loc>http://jameskingsbury.com/languages/bash/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/bootstrap/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/css3/</loc>
+    <loc>http://jameskingsbury.com/languages/css3/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>http://jameskingsbury.com/cv/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://jameskingsbury.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/codeigniter/</loc>
+    <loc>http://jameskingsbury.com/frameworks/codeigniter/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://jameskingsbury.com/contact/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/docker/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/docker/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/font-awesome/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/font-awesome/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/</loc>
+    <loc>http://jameskingsbury.com/frameworks/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/</loc>
+    <loc>http://jameskingsbury.com/frameworks/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://jameskingsbury.com/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/git/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/git/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/gulp/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/gulp/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/html5/</loc>
+    <loc>http://jameskingsbury.com/languages/html5/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/hugo/</loc>
+    <loc>http://jameskingsbury.com/frameworks/hugo/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/javascript-es5/</loc>
+    <loc>http://jameskingsbury.com/languages/javascript-es5/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/javascript-es7/</loc>
+    <loc>http://jameskingsbury.com/languages/javascript-es7/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/</loc>
+    <loc>http://jameskingsbury.com/languages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/</loc>
+    <loc>http://jameskingsbury.com/languages/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/less/</loc>
+    <loc>http://jameskingsbury.com/frameworks/less/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/mongodb/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/mongodb/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/mongoose/</loc>
+    <loc>http://jameskingsbury.com/frameworks/mongoose/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/mysql/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/mysql/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/nodejs/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/nodejs/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/opengl/</loc>
+    <loc>http://jameskingsbury.com/frameworks/opengl/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/php/</loc>
+    <loc>http://jameskingsbury.com/languages/php/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/postgresql/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/postgresql/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/prerender/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/prerender/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://jameskingsbury.com/projects/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/languages/python/</loc>
+    <loc>http://jameskingsbury.com/languages/python/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/reactjs/</loc>
+    <loc>http://jameskingsbury.com/frameworks/reactjs/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/redux/</loc>
+    <loc>http://jameskingsbury.com/frameworks/redux/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/sass/</loc>
+    <loc>http://jameskingsbury.com/frameworks/sass/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/sublime-text/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/sublime-text/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/threejs/</loc>
+    <loc>http://jameskingsbury.com/frameworks/threejs/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tools/</loc>
+    <loc>http://jameskingsbury.com/tools/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/infrastructure/webpack/</loc>
+    <loc>http://jameskingsbury.com/infrastructure/webpack/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/wordpress/</loc>
+    <loc>http://jameskingsbury.com/frameworks/wordpress/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/frameworks/jquery/</loc>
+    <loc>http://jameskingsbury.com/frameworks/jquery/</loc>
   </url>
   
 </urlset>

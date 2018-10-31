@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full-stack web developer on James Kingsbury</title>
-    <link>http://localhost:1313/</link>
+    <link>http://jameskingsbury.com/</link>
     <description>Recent content in Full-stack web developer on James Kingsbury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jameskingsbury.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>404</title>
-      <link>http://localhost:1313/404/</link>
+      <link>http://jameskingsbury.com/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/404/</guid>
+      <guid>http://jameskingsbury.com/404/</guid>
       <description>Sorry. I couldn&amp;rsquo;t find what you were looking for.</description>
     </item>
     
     <item>
       <title>Adobe Photoshop</title>
-      <link>http://localhost:1313/infrastructure/adobe-photoshop/</link>
+      <link>http://jameskingsbury.com/infrastructure/adobe-photoshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/adobe-photoshop/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/adobe-photoshop/</guid>
       <description> What is it? Adobe Photoshop is a raster graphics editing tool and part of the Adobe Creative Suite.
 Projects  </description>
     </item>
     
     <item>
       <title>Angular</title>
-      <link>http://localhost:1313/frameworks/angular/</link>
+      <link>http://jameskingsbury.com/frameworks/angular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/angular/</guid>
+      <guid>http://jameskingsbury.com/frameworks/angular/</guid>
       <description>What is it? Javascript is a high level scripting language used both server side and client side with ES7 being the latest version of the standard outlined by ECMA.
 Most of the popular client side single page application frameworks encourage users to write their code using the ES7 standard, with transcompilers reverting the code back to ES5 for older browsers.
 What is it like? ES7 adds some nice language features, such as support for classes, neater arrow functions, promises for async programming and better scoping - definitely a big improvement.</description>
@@ -42,48 +42,48 @@ What is it like? ES7 adds some nice language features, such as support for class
     
     <item>
       <title>Apache HTTP server</title>
-      <link>http://localhost:1313/infrastructure/apache-http-server/</link>
+      <link>http://jameskingsbury.com/infrastructure/apache-http-server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/apache-http-server/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/apache-http-server/</guid>
       <description>What is it? Apache is a popular Open-source web server.
 Projects  Deprecation I would favour using Nginx over the Apache HTTP server. Nginx is less verbose, more modern and easier to work with.</description>
     </item>
     
     <item>
       <title>BabelJS</title>
-      <link>http://localhost:1313/infrastructure/babeljs/</link>
+      <link>http://jameskingsbury.com/infrastructure/babeljs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/babeljs/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/babeljs/</guid>
       <description>What is it? BabelJS is a tool that transpiles ES2015 to ES5 for cross-browser compatibility. With this, you can use bleeding-edge language features (with the correct plugins) and still support all modern browsers.</description>
     </item>
     
     <item>
       <title>Bash</title>
-      <link>http://localhost:1313/languages/bash/</link>
+      <link>http://jameskingsbury.com/languages/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/bash/</guid>
+      <guid>http://jameskingsbury.com/languages/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bootstrap</title>
-      <link>http://localhost:1313/infrastructure/bootstrap/</link>
+      <link>http://jameskingsbury.com/infrastructure/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/bootstrap/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/bootstrap/</guid>
       <description>What is it? Font Awesome is a CSS framework for delivering font icons.
 Projects  Deprecation I would favour using SVG files for icons to cut down on the loading bundle size.</description>
     </item>
     
     <item>
       <title>CSS3</title>
-      <link>http://localhost:1313/languages/css3/</link>
+      <link>http://jameskingsbury.com/languages/css3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/css3/</guid>
+      <guid>http://jameskingsbury.com/languages/css3/</guid>
       <description>What is it? HTML5 is a markup language used to structure documents for presentation on the web. It is most current version of the HTML standard and is well supported in all modern browsers.
 What is it like? It&amp;rsquo;s a nice iteration to the HTML standard and addresses issues with the older standards.
 When used correctly, it can be terse and neat and introduces new element tags for defining the structure of a document with much better semantics.</description>
@@ -91,78 +91,78 @@ When used correctly, it can be terse and neat and introduces new element tags fo
     
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>http://jameskingsbury.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>http://jameskingsbury.com/cv/</guid>
       <description>Please contact me if you would like a copy of my CV.</description>
     </item>
     
     <item>
       <title>CodeIgniter</title>
-      <link>http://localhost:1313/frameworks/codeigniter/</link>
+      <link>http://jameskingsbury.com/frameworks/codeigniter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/codeigniter/</guid>
+      <guid>http://jameskingsbury.com/frameworks/codeigniter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://jameskingsbury.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://jameskingsbury.com/contact/</guid>
       <description>Want to Work Together? I am a full-stack web developer with a deep passion for technology inside and outside my professional life. I&amp;rsquo;m interested in working on software projects at any stage in their lifecycle. With an keen interest in emerging technologies and any project that challenges how people traditionally do things.
 Please feel free to checkout my qualifications, skillset and some of the projects I have worked on.</description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/infrastructure/docker/</link>
+      <link>http://jameskingsbury.com/infrastructure/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/docker/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/docker/</guid>
       <description> What is it? Docker is a tool that manages the deployment of applications inside containers.
 Projects  </description>
     </item>
     
     <item>
       <title>Font Awesome</title>
-      <link>http://localhost:1313/infrastructure/font-awesome/</link>
+      <link>http://jameskingsbury.com/infrastructure/font-awesome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/font-awesome/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/font-awesome/</guid>
       <description>What is it? Font Awesome is a CSS framework for delivering font icons.
 Projects  Deprecation I would favour using SVG files for icons to cut down on the loading bundle size.</description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/infrastructure/git/</link>
+      <link>http://jameskingsbury.com/infrastructure/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/git/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/git/</guid>
       <description> What is it? Git is a source control manager and code collaboration tool.
 Projects  </description>
     </item>
     
     <item>
       <title>Gulp</title>
-      <link>http://localhost:1313/infrastructure/gulp/</link>
+      <link>http://jameskingsbury.com/infrastructure/gulp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/gulp/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/gulp/</guid>
       <description>What is it? Gulp is an automated Javascript task runner used for common tasks such as concatenating and minifying source code as part of the deployment process.
 Projects  Deprecation WebPack is a better tool to use.</description>
     </item>
     
     <item>
       <title>HTML5</title>
-      <link>http://localhost:1313/languages/html5/</link>
+      <link>http://jameskingsbury.com/languages/html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/html5/</guid>
+      <guid>http://jameskingsbury.com/languages/html5/</guid>
       <description>What is it? HTML5 is a markup language used to structure documents for presentation on the web. It is most current version of the HTML standard and is well supported in all modern browsers.
 What is it like? It&amp;rsquo;s a nice iteration to the HTML standard and addresses issues with the older standards.
 When used correctly, it can be terse and neat and introduces new element tags for defining the structure of a document with much better semantics.</description>
@@ -170,19 +170,19 @@ When used correctly, it can be terse and neat and introduces new element tags fo
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/frameworks/hugo/</link>
+      <link>http://jameskingsbury.com/frameworks/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/hugo/</guid>
+      <guid>http://jameskingsbury.com/frameworks/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript (ES5)</title>
-      <link>http://localhost:1313/languages/javascript-es5/</link>
+      <link>http://jameskingsbury.com/languages/javascript-es5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/javascript-es5/</guid>
+      <guid>http://jameskingsbury.com/languages/javascript-es5/</guid>
       <description>What is it? Javascript is a high level scripting language used both client and server side.
 ES5 refers to the version of the standard outlined by ECMA.
 What is it like? Good and bad, in that it is easy to learn but difficult to master. A lot of effort is required to create code that is neat and easy to maintain.
@@ -191,10 +191,10 @@ ES5 was standardised in 2009 when single page application development was in its
     
     <item>
       <title>Javascript (ES7)</title>
-      <link>http://localhost:1313/languages/javascript-es7/</link>
+      <link>http://jameskingsbury.com/languages/javascript-es7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/javascript-es7/</guid>
+      <guid>http://jameskingsbury.com/languages/javascript-es7/</guid>
       <description>What is it? Javascript is a high level scripting language used both server side and client side with ES7 being the latest version of the standard outlined by ECMA.
 Most of the popular client side single page application frameworks encourage users to write their code using the ES7 standard, with transcompilers reverting the code back to ES5 for older browsers.
 What is it like? ES7 adds some nice language features, such as support for classes, neater arrow functions, promises for async programming and better scoping - definitely a big improvement.</description>
@@ -202,10 +202,10 @@ What is it like? ES7 adds some nice language features, such as support for class
     
     <item>
       <title>Less</title>
-      <link>http://localhost:1313/frameworks/less/</link>
+      <link>http://jameskingsbury.com/frameworks/less/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/less/</guid>
+      <guid>http://jameskingsbury.com/frameworks/less/</guid>
       <description>What is it? LESS is a CSS preprocessor framwork with features such as mixins, variables and functions.
 What is it like? Nice and easy to use with a good clean syntax. I used LESS with several projects because it had good support within the Meteor community but for new projects I would opt to use the slightly more powerful SASS instead.
 Projects  Deprecation SASS/SCSS has overtaken this as the CSS pre-processor of choice.</description>
@@ -213,20 +213,20 @@ Projects  Deprecation SASS/SCSS has overtaken this as the CSS pre-processor of c
     
     <item>
       <title>MongoDB</title>
-      <link>http://localhost:1313/infrastructure/mongodb/</link>
+      <link>http://jameskingsbury.com/infrastructure/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/mongodb/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/mongodb/</guid>
       <description>What is it? MongoDB is an Open-source document oriented database system.
 Projects  Deprecation I prefer working with relational database systems for larger projects. While document oriented data stores reduce complexity in some areas, they introduce more complexity in others.</description>
     </item>
     
     <item>
       <title>Mongoose</title>
-      <link>http://localhost:1313/frameworks/mongoose/</link>
+      <link>http://jameskingsbury.com/frameworks/mongoose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/mongoose/</guid>
+      <guid>http://jameskingsbury.com/frameworks/mongoose/</guid>
       <description>What is it? Mongoose is a NodeJS wrapper that interacts with MongoDB.
 What is it like? Powerful and easy to pick up. It has a powerful relational data modelling set up with validation and hooks.
 Fragmented documentation can be a bit tricky, but it does keep up to date with new MongoDB features.
@@ -235,30 +235,30 @@ Projects  Deprecation As with MongoDB, I would deprecate this in favour of using
     
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1313/infrastructure/mysql/</link>
+      <link>http://jameskingsbury.com/infrastructure/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/mysql/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/mysql/</guid>
       <description> What is it? MySQL is a popular Open-source relational database management system.
 Projects  </description>
     </item>
     
     <item>
       <title>NodeJS</title>
-      <link>http://localhost:1313/infrastructure/nodejs/</link>
+      <link>http://jameskingsbury.com/infrastructure/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/nodejs/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/nodejs/</guid>
       <description> What is it? NodeJS is a server-side Javascript run-time environment.
 Projects  </description>
     </item>
     
     <item>
       <title>OpenGL</title>
-      <link>http://localhost:1313/frameworks/opengl/</link>
+      <link>http://jameskingsbury.com/frameworks/opengl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/opengl/</guid>
+      <guid>http://jameskingsbury.com/frameworks/opengl/</guid>
       <description> What is it? OpenGL is a standardised graphics framework which provides direct access to video hardware using a common interface.
 What is it like? The learning curve is quite steep but in the right hands it is very powerful, dependable and fast.
 I have been experimenting with OpenGL for the past couple of months and will continue to do so.
@@ -267,10 +267,10 @@ Projects  </description>
     
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/languages/php/</link>
+      <link>http://jameskingsbury.com/languages/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/php/</guid>
+      <guid>http://jameskingsbury.com/languages/php/</guid>
       <description>What is it? PHP is one of the earliest server side scripting languages for the web. It forms the basis for many popular Open-source projects such as Drupal, Magento and Wordpress.
 What is it like? Simple to pick up but not quite as powerful or elegant as more modern languages and platforms such as NodeJS and Python.
 I stopped using this on any of my personal projects around 5 years ago but would be able to pick it up again for contract work as needs must.</description>
@@ -278,30 +278,30 @@ I stopped using this on any of my personal projects around 5 years ago but would
     
     <item>
       <title>PostgreSQL</title>
-      <link>http://localhost:1313/infrastructure/postgresql/</link>
+      <link>http://jameskingsbury.com/infrastructure/postgresql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/postgresql/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/postgresql/</guid>
       <description> What is it? PostgreSQL is a popular Open-source object-relational database management system.
 Projects  </description>
     </item>
     
     <item>
       <title>Prerender</title>
-      <link>http://localhost:1313/infrastructure/prerender/</link>
+      <link>http://jameskingsbury.com/infrastructure/prerender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/prerender/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/prerender/</guid>
       <description>What is it? Prerender generates static HTML for client-side single page applications to make them accessible to web crawlers.
 Projects  Deprecation Most modern JavaScript frameworks and libraries use isomorphic rendering, where content is rendered on the server as well as the client. This negates the need for something like Prerender.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://jameskingsbury.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://jameskingsbury.com/projects/</guid>
       <description>AreaScout github.com/jamesk14022/AreaScout
 http://areascoutni.herokuapp.com/
 Utilised open data from Northern Irish government agencies to design and build a web application to help individuals make better decisions about where to live. Providing data on amenities, disamenities and visualizing data on other useful socio-economic indicators.  Server-side rendering of a React JS web app. Written in performant and readable JS ES6. Extensive use of Express for the REST backend, which interfaced with MongoDB and our logging solution PaperTrail.</description>
@@ -309,20 +309,20 @@ Utilised open data from Northern Irish government agencies to design and build a
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/languages/python/</link>
+      <link>http://jameskingsbury.com/languages/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/python/</guid>
+      <guid>http://jameskingsbury.com/languages/python/</guid>
       <description>What is it? Python is a high level general purpose programming and scripting language. It is used primarily in creating desktop and web applications.
 What is it like? Python is an easy language to pick up, with a neat syntax and nice features. It has good community support and is well documented, but can be fragmented across its different versions which makes finding solutions to common problems a little bit more tricky.</description>
     </item>
     
     <item>
       <title>ReactJS</title>
-      <link>http://localhost:1313/frameworks/reactjs/</link>
+      <link>http://jameskingsbury.com/frameworks/reactjs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/reactjs/</guid>
+      <guid>http://jameskingsbury.com/frameworks/reactjs/</guid>
       <description>What is it? ReactJS is a JavaScript library for building single page web applications.
 What is it like? ReactJS can be quite powerful when used in conjunction with Redux state management to provide a single source of truth for web application data.
 ReactJS uses a component based architecture (somewhat like VueJS and Polymer) where each is self contained with a test spec file and stylesheet.
@@ -331,10 +331,10 @@ This makes unit testing for an application a breeze and promotes good separation
     
     <item>
       <title>Redux</title>
-      <link>http://localhost:1313/frameworks/redux/</link>
+      <link>http://jameskingsbury.com/frameworks/redux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/redux/</guid>
+      <guid>http://jameskingsbury.com/frameworks/redux/</guid>
       <description>What is it? Redux is a state management container for Javascript applications.
 How does it work? Redux is a state management library that provides a single source of truth for web application data. It is used primarily with the ReactJS Javascript library to manage data for components.
 Maintaining a predictable state works as follows: - key components (such as an item detail view or filter component) are wrapped inside connected components, which map the application state and actions to that component.</description>
@@ -342,10 +342,10 @@ Maintaining a predictable state works as follows: - key components (such as an i
     
     <item>
       <title>Sass/SCSS</title>
-      <link>http://localhost:1313/frameworks/sass/</link>
+      <link>http://jameskingsbury.com/frameworks/sass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/sass/</guid>
+      <guid>http://jameskingsbury.com/frameworks/sass/</guid>
       <description> What is it? Sass is another CSS preprocessor framework with built in features such as mixins, variables and functions.
 What is it like? Fast, powerful, elegant and well documented. I use this for all projects I am working on in conjunction with the Bourbon.io toolset.
 Projects  </description>
@@ -353,20 +353,20 @@ Projects  </description>
     
     <item>
       <title>Sublime Text</title>
-      <link>http://localhost:1313/infrastructure/sublime-text/</link>
+      <link>http://jameskingsbury.com/infrastructure/sublime-text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/sublime-text/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/sublime-text/</guid>
       <description>What is it? Sublime text is a lightweight modular text editor.
 Projects  Deprecation While useful as a scratchpad for ideas, WebStorm is far more powerful and has excellent integration for JavaScript based applications.</description>
     </item>
     
     <item>
       <title>ThreeJS</title>
-      <link>http://localhost:1313/frameworks/threejs/</link>
+      <link>http://jameskingsbury.com/frameworks/threejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/threejs/</guid>
+      <guid>http://jameskingsbury.com/frameworks/threejs/</guid>
       <description>What is it? jQuery is a Javascript library designed to simplify cross-platform client side development.
 What is it like? Fast and small and very useful for dealing with cross-browser issues (with older browsers) encountered when using standard Javascript.
 I have used this in the past and would use it again if support for older browsers was needed, but with advances in modern Javascript I wouldn&amp;rsquo;t use this anymore.
@@ -375,10 +375,10 @@ Projects  Deprecation With better standardised browser support and additions to 
     
     <item>
       <title>WebPack</title>
-      <link>http://localhost:1313/infrastructure/webpack/</link>
+      <link>http://jameskingsbury.com/infrastructure/webpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/infrastructure/webpack/</guid>
+      <guid>http://jameskingsbury.com/infrastructure/webpack/</guid>
       <description>What is it? WebPack is a bundling tool to manage static assets, styles and scripts.
 It is used to bundle these depending on the environment you are working in, and supports transpilation of JavaScript and CSS assets.
 With BabelJS you to use modern Javascript features and transpiles them to ES5 to run in environments where those features might not yet be supported.</description>
@@ -386,19 +386,19 @@ With BabelJS you to use modern Javascript features and transpiles them to ES5 to
     
     <item>
       <title>Wordpress</title>
-      <link>http://localhost:1313/frameworks/wordpress/</link>
+      <link>http://jameskingsbury.com/frameworks/wordpress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/wordpress/</guid>
+      <guid>http://jameskingsbury.com/frameworks/wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jQuery</title>
-      <link>http://localhost:1313/frameworks/jquery/</link>
+      <link>http://jameskingsbury.com/frameworks/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/frameworks/jquery/</guid>
+      <guid>http://jameskingsbury.com/frameworks/jquery/</guid>
       <description>What is it? jQuery is a Javascript library designed to simplify cross-platform client side development.
 What is it like? Fast and small and very useful for dealing with cross-browser issues (with older browsers) encountered when using standard Javascript.
 I have used this in the past and would use it again if support for older browsers was needed, but with advances in modern Javascript I wouldn&amp;rsquo;t use this anymore.

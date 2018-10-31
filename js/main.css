@@ -716,7 +716,7 @@ main.page {
   max-width: 85rem; }
   @media screen and (min-width: 64rem) {
     main.page {
-      padding: 4rem 0; } }
+      padding: 3rem; } }
   main.page h2 {
     color: #1f3605;
     margin-left: 4rem;
@@ -736,8 +736,7 @@ main.page {
  *	Projects
  */
 main.projects {
-  overflow: hidden;
-  padding: 0; }
+  overflow: hidden; }
   main.projects h1,
   main.projects h2 {
     color: #1f3605; }
@@ -815,7 +814,7 @@ div.comments {
   max-width: 50rem; }
   @media screen and (min-width: 64rem) {
     div.comments {
-      padding: 4rem 0; } }
+      padding: 3rem; } }
 
 /**
  *	Blog posts

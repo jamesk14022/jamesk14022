@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Languages on James Kingsbury</title>
-    <link>http://localhost:1313/languages/</link>
+    <link>http://jameskingsbury.com/languages/</link>
     <description>Recent content in Languages on James Kingsbury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://localhost:1313/languages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jameskingsbury.com/languages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bash</title>
-      <link>http://localhost:1313/languages/bash/</link>
+      <link>http://jameskingsbury.com/languages/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/bash/</guid>
+      <guid>http://jameskingsbury.com/languages/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS3</title>
-      <link>http://localhost:1313/languages/css3/</link>
+      <link>http://jameskingsbury.com/languages/css3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/css3/</guid>
+      <guid>http://jameskingsbury.com/languages/css3/</guid>
       <description>What is it? HTML5 is a markup language used to structure documents for presentation on the web. It is most current version of the HTML standard and is well supported in all modern browsers.
 What is it like? It&amp;rsquo;s a nice iteration to the HTML standard and addresses issues with the older standards.
 When used correctly, it can be terse and neat and introduces new element tags for defining the structure of a document with much better semantics.</description>
@@ -32,10 +32,10 @@ When used correctly, it can be terse and neat and introduces new element tags fo
     
     <item>
       <title>HTML5</title>
-      <link>http://localhost:1313/languages/html5/</link>
+      <link>http://jameskingsbury.com/languages/html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/html5/</guid>
+      <guid>http://jameskingsbury.com/languages/html5/</guid>
       <description>What is it? HTML5 is a markup language used to structure documents for presentation on the web. It is most current version of the HTML standard and is well supported in all modern browsers.
 What is it like? It&amp;rsquo;s a nice iteration to the HTML standard and addresses issues with the older standards.
 When used correctly, it can be terse and neat and introduces new element tags for defining the structure of a document with much better semantics.</description>
@@ -43,10 +43,10 @@ When used correctly, it can be terse and neat and introduces new element tags fo
     
     <item>
       <title>Javascript (ES5)</title>
-      <link>http://localhost:1313/languages/javascript-es5/</link>
+      <link>http://jameskingsbury.com/languages/javascript-es5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/javascript-es5/</guid>
+      <guid>http://jameskingsbury.com/languages/javascript-es5/</guid>
       <description>What is it? Javascript is a high level scripting language used both client and server side.
 ES5 refers to the version of the standard outlined by ECMA.
 What is it like? Good and bad, in that it is easy to learn but difficult to master. A lot of effort is required to create code that is neat and easy to maintain.
@@ -55,10 +55,10 @@ ES5 was standardised in 2009 when single page application development was in its
     
     <item>
       <title>Javascript (ES7)</title>
-      <link>http://localhost:1313/languages/javascript-es7/</link>
+      <link>http://jameskingsbury.com/languages/javascript-es7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/javascript-es7/</guid>
+      <guid>http://jameskingsbury.com/languages/javascript-es7/</guid>
       <description>What is it? Javascript is a high level scripting language used both server side and client side with ES7 being the latest version of the standard outlined by ECMA.
 Most of the popular client side single page application frameworks encourage users to write their code using the ES7 standard, with transcompilers reverting the code back to ES5 for older browsers.
 What is it like? ES7 adds some nice language features, such as support for classes, neater arrow functions, promises for async programming and better scoping - definitely a big improvement.</description>
@@ -66,10 +66,10 @@ What is it like? ES7 adds some nice language features, such as support for class
     
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/languages/php/</link>
+      <link>http://jameskingsbury.com/languages/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/php/</guid>
+      <guid>http://jameskingsbury.com/languages/php/</guid>
       <description>What is it? PHP is one of the earliest server side scripting languages for the web. It forms the basis for many popular Open-source projects such as Drupal, Magento and Wordpress.
 What is it like? Simple to pick up but not quite as powerful or elegant as more modern languages and platforms such as NodeJS and Python.
 I stopped using this on any of my personal projects around 5 years ago but would be able to pick it up again for contract work as needs must.</description>
@@ -77,10 +77,10 @@ I stopped using this on any of my personal projects around 5 years ago but would
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/languages/python/</link>
+      <link>http://jameskingsbury.com/languages/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/languages/python/</guid>
+      <guid>http://jameskingsbury.com/languages/python/</guid>
       <description>What is it? Python is a high level general purpose programming and scripting language. It is used primarily in creating desktop and web applications.
 What is it like? Python is an easy language to pick up, with a neat syntax and nice features. It has good community support and is well documented, but can be fragmented across its different versions which makes finding solutions to common problems a little bit more tricky.</description>
     </item>
